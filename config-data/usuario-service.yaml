@@ -1,0 +1,5 @@
+spring:
+ application:
+  name: ms-usuario
+server:
+ port: 8080
