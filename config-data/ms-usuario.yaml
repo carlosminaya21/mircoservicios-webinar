@@ -1,5 +1,5 @@
 spring:
- application:
-  name: ms-usuario
+  application:
+    name: ms-usuario
 server:
- port: 8080
+  port: 8080
